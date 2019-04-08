@@ -1,0 +1,8 @@
+ipywidgets
+pandas
+datetime
+numpy
+nbinteract
+matplotlib
+scipy
+IPython
